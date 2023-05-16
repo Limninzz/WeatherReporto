@@ -4,6 +4,11 @@ body {
     font-family: sans-serif;
 }
 
+h2 {
+    color:snow;
+    text-shadow: 0 0 15px #0c80eb;
+}
+
 header {
     text-align: center;
     color: #79a0c4;
